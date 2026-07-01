@@ -1,0 +1,8 @@
+{
+  "name": "GrameenCraft",
+  "description": "A premium, cultural e-commerce platform connecting rural Bangladeshi artisans directly with global buyers, featuring authentic products and interactive artisan storytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
